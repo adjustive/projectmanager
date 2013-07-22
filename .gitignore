@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.o
 ui_*.h
 ui_*.cpp
@@ -6,3 +7,25 @@ ui_*.cpp
 moc_*
 *~
 Makefile
+=======
+# C++ objects and libs
+
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.dll
+*.dylib
+
+# Qt-es
+
+*.pro.user
+*.pro.user.*
+moc_*.cpp
+qrc_*.cpp
+Makefile
+*-build-*
+>>>>>>> e9f8938a5b2bae66522221486ee6934e1fc799c2
