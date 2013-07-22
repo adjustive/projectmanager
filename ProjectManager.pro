@@ -7,7 +7,7 @@
 QT       += core gui sql network script widgets printsupport
 
 CONFIG += c++11
-TARGET = myprojects
+TARGET = ProjectManager
 
 TEMPLATE = app
 
