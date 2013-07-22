@@ -1,0 +1,8 @@
+*.o
+ui_*.h
+ui_*.cpp
+*.user
+*.user.*
+moc_*
+*~
+Makefile

@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="finished">res/Finished.png</file>
+        <file alias="active">res/Customize.png</file>
+        <file alias="syncing">res/sync.gif</file>
+        <file alias="synced">res/tick.png</file>
+        <file alias="archived">res/Archive.png</file>
+        <file alias="failed">res/failed.png</file>
+        <file alias="icon">res/icon.png</file>
+        <file alias="subproject">res/subproject.png</file>
+        <file alias="stop">res/stop.png</file>
+        <file alias="start">res/start.png</file>
+        <file alias="new">res/new.png</file>
+        <file alias="delete">res/delete.png</file>
+        <file alias="show_archived">res/archived.png</file>
+    </qresource>
+</RCC>
